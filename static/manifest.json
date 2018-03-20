@@ -2,10 +2,13 @@
  "name": "Mobile-and-Web Agile Model Transformation Framework",
  "short_name": "A-MTF",
  "lang": "en-US",
- "start_url": "/",
+ "start_url": "https://mw-amtf.github.io/",
  "background_color": "#151719",
  "theme_color": "#151719",
  "display": "standalone",
+ "orientation": "any",
+ "scope": "/",
+ "description": "A Mobile-and-Web Agile Model Transformation Framework"
  "icons": [
   {
    "src": "\/static\/icon\/android-icon-36x36.png",
